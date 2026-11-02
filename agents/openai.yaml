@@ -1,0 +1,3 @@
+interface:
+  display_name: "课程案例数据可视化"
+  short_description: "在原始Excel副本上复刻课程看板样式，生成可编辑图表与逐图分析TXT"
